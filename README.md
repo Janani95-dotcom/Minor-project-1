@@ -1,3 +1,5 @@
+#**weekely project**
+Author Janani.V ,VIT
 this project is done for minor project 1.It contains my own try for making calculator by python .I think 
 it would be correct but i don't know how ,it is basicaly about;
 The program starts by importing the NumPy library for array operations.
